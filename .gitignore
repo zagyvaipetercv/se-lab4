@@ -22,3 +22,6 @@ target/
 *.project
 .settings/
 .vscode/
+
+#excel
+*.xlsx
